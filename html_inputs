@@ -1,0 +1,14 @@
+
+<form><label>Your Name</label>
+    <input><textarea name="" id="" cols="30" rows="10"></textarea><br>
+    <input type="submit"><br>
+    <input type= "datetime"><br>
+    <input type="date"><br>
+    <input type="file"><br>
+    <input type="radio"><br>
+    <input type="range"><br>
+    <input type="reset"><br>
+    <input type="button"><br>
+</form>
+        
+    
